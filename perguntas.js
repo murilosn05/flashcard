@@ -1,23 +1,28 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'ELETRICA',
+    'O que é TENSÃO?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'ELETRICA',
+    'O QUE É CORRENTE ELETRICA?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'ELETRICA?',
+    'O que é DDP?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
+    'ELETRICA',
+    'O QUE É EFEITO JOULE?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'ELETRICA',
+    'O QUE É CURTO CIRCUITO?',
+    'Um curto-circuito pode ocorrer caso um circuito for montado de forma que ambos os terminais estejam ligados no mesmo potencial elétrico.'
