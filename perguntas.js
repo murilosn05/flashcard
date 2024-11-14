@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'ELETRICA?',
+    'ELETRICA',
     'O que é DDP?',
     'A tensão elétrica ou diferença de potencial (ddp) é a quantidade de energia gerada por pilhas ou baterias que move cargas elétricas para o restante do circuito elétrico'
 )
