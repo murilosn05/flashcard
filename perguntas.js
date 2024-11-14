@@ -26,3 +26,4 @@ criaCartao(
     'ELETRICA',
     'O QUE É CURTO CIRCUITO?',
     'Um curto-circuito pode ocorrer caso um circuito for montado de forma que ambos os terminais estejam ligados no mesmo potencial elétrico.'
+)
